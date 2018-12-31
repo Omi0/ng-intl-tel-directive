@@ -2,6 +2,9 @@
 
 
 Uses [intl-tel-input](https://www.npmjs.com/package/intl-tel-input) package.
+![Field](https://raw.githubusercontent.com/Omi0/ng-intl-tel-directive/blob/master/images/intl-tel-field.png)
+![Field](https://raw.githubusercontent.com/Omi0/ng-intl-tel-directive/blob/master/images/intl-tel-dropdown.png)
+
 
 ## System Requirements
 
